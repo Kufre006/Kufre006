@@ -1,0 +1,1 @@
+This program is a smart self checkout which allows you to continuously add items to cart, shows your total purchase, and updates the quantity of items in the store. The program ends when you type "exit" or when all items in store are exhausted and your total purchase is presented to you.
